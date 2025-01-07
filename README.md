@@ -3,7 +3,7 @@
 ## Group Members
 - **Khalissa Raihana Azhari** (4523210124)
 - **Muhammad Abiyu Muflih Az Arianto** (4523210124)
-- **Avryzel Alifian Hakim** (4523210121)
+
 
 
 
